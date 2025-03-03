@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322514666180",
+    "project_id": "tanbeeh-er",
+    "storage_bucket": "tanbeeh-er.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322514666180:android:eb10abe134eb3368ad3f91",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_gv4H1BJEpEBPQzJUQAjyUS6MtBJ2U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="appMain_name">Tanbeeh ER</string>
+    <string name="subtitle_text">Makes your life easier</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_fellow">Sign up as fellow</string>
+    <string name="sign_in_message">Sign in / sign up to start the experience</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Welcom_message">Welcome Back</string>
+    <string name="No_account">No account? Sign Up</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
